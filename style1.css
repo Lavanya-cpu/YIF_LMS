@@ -46,6 +46,12 @@ a:hover {
   background: orange;
   transition: all 0.2s;
 }
+
+ li{
+  margin-left: 100px;
+  margin-right: -300px;
+}
+
 .cards px-2 py-5{
   position: center;
   overflow: hidden;
